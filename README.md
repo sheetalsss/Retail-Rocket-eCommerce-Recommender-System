@@ -4,6 +4,7 @@ A comprehensive analysis of e-commerce customer behavior and product recommendat
 
 ## Dataset Description
 
+From Kaggle : https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset
 The analysis uses three main CSV files:
 
 - **events.csv**: User interactions (views, add to cart, transactions)
